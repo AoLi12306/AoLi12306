@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working as Front-end Developer
+- 🌱 I’m currently learning threejs
+- 👯 I’m looking to collaborate on cool stuff
+- 🤔 I’m looking for help with machine learning
+
 
 <!--
 **AoLi12306/AoLi12306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
