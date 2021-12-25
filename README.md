@@ -1,7 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as Front-end Developer
-- 🌱 I’m currently learning threejs
-- 👯 I’m looking to collaborate on cool stuff
+- 🔭 I’m currently working as Software Engineer
 - 🤔 I’m looking for help with machine learning
 
 
